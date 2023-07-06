@@ -1,6 +1,6 @@
 # Project 4 GloVe BERT debiasing  | Language Computation Cognition
 
-Final project for the Language & Computation & Cognition course, compares BERT & GloVe word embeddings, and analysing Biases inherent to word vectors and Debiasing methods based on big data of words and fMRI's voxels.
+Final project for the Language & Computation & Cognition course, in the field of biases and debiasing in language model embeddings and fMRI Brain’s voxels, compares BERT & GloVe word embeddings, analyzing Biases inherent to word vectors and Debiasing methods based on big data from research.
 
 # Project 4 - GloVe BERT debiasing
 
